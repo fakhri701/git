@@ -1,0 +1,31 @@
+body {background: rgb(253, 252, 252);
+}
+
+form {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+form {
+    background: rgb(153, 183, 197);
+    height: 100px;
+    width:100%;
+}
+#tarif {
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+#ta {
+    text-align: center ;
+}
+body{
+    background-image: url(https://metier-outsourcer.com/wp-content/uploads/2019/06/tarif-r%C3%A9daction-de-contenu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    
+
+

@@ -1,0 +1,272 @@
+.a {
+    border: 5px dashed rgb(246, 154, 83);
+}
+  /* unvisited link */
+  a:link {
+    color: rgb(250, 115, 115);
+}
+
+/* visited link */  
+a:visited {
+    color: rgb(71, 255, 129);
+}
+
+/* mouse over element */
+div:hover {
+    color: rgb(102, 71, 255);
+} 
+
+/* selected link */
+a:active{
+    color: #0000FF
+}
+table{
+    height: 150px;
+    width: 90%;
+}
+.a{
+    height: 150px;
+    width: 50%;
+}
+h3 {
+    border: 10px solid rgb(246, 157, 157);
+    margin: 20px;
+    border-radius: 50px;
+    height: 90px;
+    width: 90%;
+
+  }
+#RE {border: 10px solid rgb(174, 122, 3);
+  margin: 20px;
+  height: 50px;
+  width: 50%;
+  color: rgb(17, 17, 17);
+  background-color: #e7e7e7; color: black;
+}
+#ID {
+    border: 10px solid rgb(174, 122, 3);
+    margin: 20px;
+    border-radius: 50px;
+    height: 90px;
+    width: 90%;
+    color: rgb(17, 17, 17);
+
+  }
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 5px / 50px;
+  }
+  h1{
+    letter-spacing: 4px;
+    word-spacing: 4px;
+  }
+  h1{
+    font-size: 50px;
+    text-align: center;
+}
+.a div {color:red}
+#DD{text-align:center;
+ font-size: 50px;
+ color:rgb(249, 132, 42)
+}
+
+nav a {
+    float: left;
+    display: block;
+    color:red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+#ID{
+    display: none;
+    width: 100px;
+    height: 100px;
+    background: rgb(246, 159, 98);
+ }
+#ID {font-size:50px;
+     color: rgb(251, 177, 124); }
+nav {
+    background: red;
+    height: 100px;
+    width:100%;
+}
+    
+
+
+
+
+h1 {
+  background-color: rgb(245, 247, 253);
+  color: rgb(19, 19, 19);
+}
+
+div {
+  background-color: rgb(233, 236, 240);
+  color: white;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+head {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+  
+}
+
+
+
+
+
+
+#IM {
+  float: left;
+
+}
+#hf:hover{
+  color: rgb(20, 20, 20);
+    padding: 50px 50px;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    transition: 1s;
+    border-radius: 50%;
+    text-align: center;
+  
+}
+
+
+
+
+.nav-bar{
+  color: black;
+  
+
+    font-family: arial, verdana, sans-serif;
+    font-size: 14pt;
+    }
+    
+    
+    
+   
+    
+    .nav-bar {
+  
+    text-decoration: line-through;
+    }
+    
+    
+    
+    .nav-bar{
+    
+    text-decoration: underline ;
+    }
+ 
+ .nav-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	height: 100%;
+	max-width: 1300px;
+	padding: 0 10px;
+}
+#footer {
+	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+#footer .footer {
+	min-height: 200px;
+	flex-direction: column;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+#footer h2 {
+	color: white;
+	font-weight: 500;
+	font-size: 1.8rem;
+	letter-spacing: 0.1rem;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#footer .social-icon {
+	display: flex;
+	margin-bottom: 30px;
+}
+#footer .social-item {
+	height: 50px;
+	width: 50px;
+	margin: 0 5px;
+}
+#footer .social-item img {
+	filter: grayscale(1);
+	transition: 0.3s ease filter;
+}
+#footer .social-item:hover img {
+	filter: grayscale(0);
+}
+#footer p {
+	color: white;
+	font-size: 1.3rem;
+}
+
+
+.nav-bar {
+  color: rgb(20, 20, 20);
+    padding: 50px 50px;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+}
+.nav-list ul li {
+  display: inline;
+  color: red;
+ 
+  
+}
+#header{
+  position: fixed;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: red;
+  height: 20px;
+  
+}
+.nav-list ul li a{
+  display: inline;
+  color: rgb(0, 0, 0);
+  padding-left: 90px;
+  font-size: 20px;
+ 
+  
+}
+#hf{
+  background-color: transparent;
+}
+
+
+.nav-list{
+  height: 60px;
+}
+body{
+  background-image: url(https://raw.githubusercontent.com/ShaifArfan/one-page-website-html-css-project/master/img/hero-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
